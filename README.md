@@ -13,7 +13,14 @@ This is a simple desktop-based banking application developed as our final projec
 
 ---
 
+
+
 ## 🚀 How to Run the App
+The runnable JAR file for this Basic Banking Application is available for download on my portfolio website.
+Simply click the Download App button there to get the latest compiled version of the program.
+If you prefer to run the application from the source code, you can compile the Java files in the src folder using Java 8 or higher.
+
+The JAR file is also uploaded on my repository:
 
 ### Running the `.jar` file
 
