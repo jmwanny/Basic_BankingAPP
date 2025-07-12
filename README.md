@@ -38,7 +38,7 @@ You can run this application by **double-clicking the JAR file**:
 
 
 
-   # How to Check if Java is Installed Using CMD
+
 
 ## Steps
 
@@ -50,15 +50,19 @@ You can run this application by **double-clicking the JAR file**:
    java -version
 3. If Java is installed, you will see output similar to:
 
+
   ```bash
 java version "1.8.0_291"
 Java(TM) SE Runtime Environment (build 1.8.0_291-b10)
 Java HotSpot(TM) 64-Bit Server VM (build 25.291-b10, mixed mode)
 
-but if you see an error like:
+```
+But if you see an output similar to this:
 
-  ```bash
+```bash
 'java' is not recognized as an internal or external command,
 operable program or batch file.
 
+```
 Java is not installed.
+
