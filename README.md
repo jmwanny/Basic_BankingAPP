@@ -21,6 +21,7 @@ Simply click the Download App button there to get the latest compiled version of
 If you prefer to run the application from the source code, you can compile the Java files in the src folder using Java 8 or higher.
 
 The JAR file is also uploaded on my repository:
+https://github.com/jmwanny/Basic_BankingAPP/blob/8863723c21fc2df4e54411a8f9422fa6148ca1e7/BasicBankApp.jar
 
 ### Running the `.jar` file
 
