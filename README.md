@@ -36,7 +36,7 @@ You can run this application by **double-clicking the JAR file**:
    ```bash
    cd path/to/your/jar/folder
    
-``💡 (" ") the quotation marks is a must if the path folder has spaces
+💡 (" ") the quotation marks is a must if the path folder has spaces
 
 
 
@@ -48,7 +48,7 @@ java -jar BasicBankApp.jar
 ```
 
 
-## Steps
+## How to Check if Java is Installed
 
 1. **Open Command Prompt:**
    - Press `Win + R`, type `cmd`, then press `Enter`.
