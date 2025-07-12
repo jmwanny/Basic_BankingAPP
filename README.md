@@ -35,9 +35,17 @@ You can run this application by **double-clicking the JAR file**:
    For example:
    ```bash
    cd path/to/your/jar/folder
+   
+``💡 (" ") the quotation marks is a must if the path folder has spaces
 
 
 
+3. Once you're in the directory, run your JAR file with:
+
+  ```bash
+java -jar BasicBankApp.jar
+
+```
 
 
 ## Steps
